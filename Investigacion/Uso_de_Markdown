@@ -2,7 +2,7 @@
 
 ## 1.1. ¿Qué es Markdown y por qué se utiliza?
 
-* **1.1. Definición:** Markdown es un **lenguaje de marcado ligero** que permite escribir texto con formato (títulos, listas, negrita) utilizando una sintaxis simple basada en texto plano. Fue creado para que los documentos fueran **fáciles de leer y escribir** en su forma sin procesar, pero fáciles de convertir a HTML.
+* **1.1. Definición:** Markdown es un **lenguaje de marcado ligero** que permite escribir texto con formato (títulos, listas, negrita) utilizando una sintaxis simple basada en texto plano. Fue creado para que los documentos fueran **fáciles de leer y escribir** en su forma sin procesar, pero fáciles de convertir a HTML
 
 * **1.2. Usos en Software:** Se utiliza en proyectos de software por varias razones clave:
     * **Legibilidad:** Permite documentar de forma clara y rápida sin depender de editores complejos.
